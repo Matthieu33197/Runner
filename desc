@@ -1,0 +1,10 @@
+How to create map:
+    Open the map file, for normal ground write '1', for ground obstacle write '2', for a the end of the map write 'E'.
+USAGE
+    ./my_runner map
+
+Option
+    -i          launch the game in infinity mode
+
+USER INTERACTIONS
+SPACE_KEY       jump. *
